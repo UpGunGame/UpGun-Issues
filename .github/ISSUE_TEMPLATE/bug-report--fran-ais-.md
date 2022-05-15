@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-**Version du jeu**
-2.0.0
+**Version/Mode de jeu**
+2.0.0.0/Free for All
 
 **Décrivez le bug**
 Une description claire et concise du bug.
