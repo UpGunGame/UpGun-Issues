@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Version**
+2.0.0.0
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
