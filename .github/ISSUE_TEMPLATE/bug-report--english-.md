@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Version/Gamemode**
+2.0.0.0/Free for All
+
 **Version**
 2.0.0.0
 
