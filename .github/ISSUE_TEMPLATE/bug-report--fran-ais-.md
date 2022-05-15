@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Version du jeu**
+2.0.0
+
 **Décrivez le bug**
 Une description claire et concise du bug.
 
